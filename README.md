@@ -1,4 +1,4 @@
-## Clasificador de Distorsiones Cognitivas
+# Clasificador de Distorsiones Cognitivas
 
 ## Descripción
 Este proyecto implementa un clasificador de distorsiones cognitivas basado en un modelo SVM (Support Vector Machine) entrenado para identificar 12 tipos diferentes de distorsiones cognitivas en textos en español.
@@ -70,8 +70,11 @@ print(f"Distorsión cognitiva detectada: {distorsion}")
 ## Licencia
 Este proyecto está licenciado bajo CC BY-ND 4.0 - ver el archivo [LICENSE.md](LICENSE.md) para más detalles.
 
+## Funding
+Este algoritmo se hizo en el marco del proyecto Hatemedia (PID2020-114584GB-I00), financiado por MCIN/AEI/10.13039/501100011033.
+
 ## Contacto
 Para preguntas o soporte, por favor abra un issue en este repositorio.
 
 ## Cómo citar este algoritmo
-Said-Hung, E. M., & Quiun, L. (2025). Algoritmo de clasificación de distorciones cognitivas en mensajes con expresiones de odio. Hatemedia Project. https://doi.org/10.5281/zenodo.15176223
+Said-Hung, E. M., & Quiun, L. (2025). Algoritmo de clasificación de distorciones cognitivas en mensajes con expresiones de odio. Zenodo. https://doi.org/10.5281/zenodo.15176223
