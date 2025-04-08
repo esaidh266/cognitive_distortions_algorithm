@@ -1,0 +1,17 @@
+# Dependencias principales
+scikit-learn>=1.0.2
+numpy>=1.22.0
+scipy>=1.8.0
+joblib>=1.1.0
+pandas>=1.4.0
+
+# Procesamiento de texto
+nltk>=3.7
+regex>=2022.1.18
+
+# Visualización (opcional, para análisis)
+matplotlib>=3.5.1
+seaborn>=0.11.2
+
+# Utilidades
+tqdm>=4.62.3
