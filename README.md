@@ -77,4 +77,4 @@ Este algoritmo se hizo en el marco del proyecto Hatemedia (PID2020-114584GB-I00)
 Para preguntas o soporte, por favor abra un issue en este repositorio.
 
 ## Cómo citar este algoritmo
-Said-Hung, E. M., & Quiun, L. (2025). Algoritmo de clasificación de distorciones cognitivas en mensajes con expresiones de odio. Zenodo. https://doi.org/10.5281/zenodo.15176223
+Said-Hung, E. M. (2025). Algoritmo de clasificación de distorciones cognitivas en mensajes con expresiones de odio. Hatemedia Project. https://doi.org/10.5281/zenodo.15180918
